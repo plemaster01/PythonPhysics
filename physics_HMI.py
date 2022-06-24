@@ -212,7 +212,7 @@ def calc_vi():
 
     elif formula == 4:
         d2 = known['d']
-        vf2 = known['a']
+        vf2 = known['vf']
         t2 = known['t']
         vi2 = (d2 / t2) * 2 - vf2
         work = 'vi = 2*d/t - vf'
