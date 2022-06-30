@@ -15,4 +15,6 @@ Displacement:
 
 ![Displacement](https://latex.codecogs.com/svg.image?d = vi_{t}+\frac{1}{2}*a* t^2")
 
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
+
 
