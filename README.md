@@ -12,3 +12,7 @@ Square of final velocity:
 Displacement:
 <img src="https://latex.codecogs.com/svg.image?d=\frac{(v_{i}&plus;v_{f})}{2}*t" title="https://latex.codecogs.com/svg.image?d=\frac{(v_{i}+v_{f})}{2}*t" />
 
+
+![Displacement](https://latex.codecogs.com/svg.image?d = vi_{t}+\frac{1}{2}*a* t^2")
+
+
